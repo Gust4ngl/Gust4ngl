@@ -3,8 +3,7 @@
 
 
 ## 🌟️ About Me 
-**I'm a back-end developer, and here are all of my
-projects and studies about programing.**
+**I know the basics about html and css but, my focus on moment are learning more about back-end development.**
 
 
 ## 🔗 Links 
