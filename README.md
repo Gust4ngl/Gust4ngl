@@ -1,5 +1,5 @@
 
-# Hi, I'm Gustavo! 👋
+# Hi, I'm Gustavo! 👋🏼
 
 
 ## 🌟️ About Me 
