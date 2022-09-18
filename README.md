@@ -3,7 +3,7 @@
 
 
 ## 🌟️ About Me 
-**I know the basics about html and css but, my focus on moment are learning more about back-end development.**
+**I started studying programming in 2021. My focus at the moment is to learn more about back-end development, and in the future I will also learn about front-end development**
 
 
 ## 🔗 Links 
