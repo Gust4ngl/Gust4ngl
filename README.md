@@ -1,7 +1,7 @@
 
 # Hi, I'm Gustavo! 👋🏼
 
-![](https://github.com/Gust4ngl/Gust4ngl/blob/master/gif.gif)
+![](https://github.com/Gust4ngl/Gust4ngl/blob/master/room.gif)
 
 ## About Me 
 **I study programming since 2021. 
