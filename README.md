@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=957116FF&height=150)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bai+Jamjuree&duration=4000&pause=100&color=957116&center=true&vCenter=true&width=300&lines=Welcome+to+my+Github)](https://git.io/typing-svg)
 
 ![](https://github.com/Gust4ngl/Gust4ngl/blob/master/room.gif)
