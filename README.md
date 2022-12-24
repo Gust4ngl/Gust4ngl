@@ -4,8 +4,9 @@
 
 <div align="center">
   <img src="https://github.com/Gust4ngl/Gust4ngl/blob/master/room.gif">
-  <img src="https://github-readme-stats.vercel.app/api?username=gust4ngl&theme=great-gatsby&hide_border=true&title_color=957116&text_color=957116">
-
+   <img height="190" src="https://github-readme-stats.vercel.app/api?username=gust4ngl&theme=great-gatsby&hide_border=true&title_color=957116&text_color=957116">
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gust4ngl&layout=compact&theme=great-gatsby&hide_border=true&title_color=957116&text_color=957116">
+  
 ### Contact Info
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-angeli-143726223)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551986588535)
