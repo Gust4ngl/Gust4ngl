@@ -4,8 +4,8 @@
 
 <div align="center">
   <img src="https://github.com/Gust4ngl/Gust4ngl/blob/master/room.gif">
-   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gustangl&theme=great-gatsby&hide_border=true&title_color=957116&text_color=957116">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustangl&layout=compact&theme=great-gatsby&hide_border=true&title_color=957116&text_color=957116">
+   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Angeli&theme=great-gatsby&hide_border=true&title_color=957116&text_color=957116">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Angeli&layout=compact&theme=great-gatsby&hide_border=true&title_color=957116&text_color=957116">
   
 ### Contact Info
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-angeli-143726223)
@@ -20,7 +20,6 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=957116FF&section=footer&reversal=true&height=150"/>
